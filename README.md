@@ -2,7 +2,7 @@
 ![logo](https://github.com/sanath2567/sanath2567/blob/main/Purple%20White%20Orange%20Modern%20Geometric%20Digital%20Marketing%20Training%20Banner.png)
 <h1 align="center">Hi 👋, I'm sanath kumar</h1>
 <h3 align="center">🚀 Turning Ideas into Reality</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"/>
+<img align="right" alt="Coding" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"/>
 
 <p align="left"> <a href="https://twitter.com/sanathsriram" target="blank"><img src="https://img.shields.io/twitter/follow/sanathsriram?logo=twitter&style=for-the-badge" alt="sanathsriram" /></a> </p>
 
