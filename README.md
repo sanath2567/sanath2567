@@ -1,3 +1,5 @@
+
+![logo](https://github.com/sanath2567/sanath2567/blob/main/Purple%20White%20Orange%20Modern%20Geometric%20Digital%20Marketing%20Training%20Banner.png)
 <h1 align="center">Hi 👋, I'm sanath kumar</h1>
 <h3 align="center">🚀 Turning Ideas into Reality</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"/>
